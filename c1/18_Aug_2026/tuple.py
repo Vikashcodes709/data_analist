@@ -72,6 +72,15 @@ print(min(a))
 print(max(a))'''
 
 
+'''a=eval(input("Enter number:"))
+sum=0
+for x in a:
+    sum=sum+x
+print("total sum is",sum)
+print("the avg is",sum/2)'''
+
+
+
 
 
 
