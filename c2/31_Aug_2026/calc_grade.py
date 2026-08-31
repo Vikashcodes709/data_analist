@@ -24,17 +24,20 @@ i=1
 while i<=10:
     print(i*1)
     i=i+1
+table(4)
 
 n1=6
 j=1
 while j<=10:
     print(n1*j)
-    j=i+1'''
+    j=i+1
+table(5)'''
 
-def table(n):
+'''def table(n):
     i=1
     while i<=10:
-        print(n*1)
+        print(n*i)
         i=i+1
+table(7)'''
     
         
