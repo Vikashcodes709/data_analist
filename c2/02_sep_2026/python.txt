@@ -1,0 +1,3 @@
+Till no we have covered data types, operators, function using python.
+We are learning for 2 sessions for 5 days a week as a hands-on training.
+This practical sessio will help student for their final project.
