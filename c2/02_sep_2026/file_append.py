@@ -8,3 +8,4 @@ with open("msg.txt", "a") as f:
 with open("msg.txt", "r") as f:
     print("The file content:")
     print(f.read())
+
