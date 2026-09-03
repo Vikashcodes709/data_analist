@@ -12,10 +12,10 @@ try:
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
 
-    # Take an operator
+    # Take an operator***
     operator = input("Enter operator (+, -, *, /): ")
 
-    # Perform calculation
+    # Perform calculation****
     if operator == "+":
         result = num1 + num2
     elif operator == "-":
